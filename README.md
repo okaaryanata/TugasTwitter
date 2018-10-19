@@ -12,11 +12,4 @@ Pada aplikasi ini terdapat beberapa fungsi seperti :
     * ***DELETE*** = delete tweet
     * ***GET*** = melihat semua tweet berdasarkan email
 
-Pada app ini data tersimpan pada file bernama **oka.json** . Data tersebut berisikan data dari user dan tweet yang telah dibuat. data dalam app ini menggunakan struktur data **dictionary** dan **list**
-
-<<<<<<< HEAD
-test tambah asdakkas asdadsa
-test tambah oka
-=======
-test tambah ashdiojaiod
->>>>>>> aryanata
+Pada app ini data tersimpan pada file bernama **oka.json** . Data tersebut berisikan data dari user dan tweet yang telah dibuat.data dalam app ini menggunakan struktur data **dictionary** dan **list** .
