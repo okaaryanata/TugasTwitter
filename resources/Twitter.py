@@ -19,7 +19,7 @@ class Login(Resource):
         for user in twitter["user"]:
             if user["email"] == data["email"]:
                 if user["password"] == data["password"]:
-                    cookies["email"] = data["email"]
+                    # cookies["email"] = data["email"]
                     return "Login success", 200
         return "Username or Password incorrect", 401
 
